@@ -1,1 +1,1 @@
-# BAH
+# loss function and optimiser
